@@ -1,0 +1,1 @@
+/nfs/production2d/cmc_projects_tmp/impronta_exoma/analysis/variant_annotation/cmd_subsetVCF.sh
